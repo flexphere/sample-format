@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+./node_modules/.bin/prettier --ignore-path .gitignore --write --plugin-search-dir=. .

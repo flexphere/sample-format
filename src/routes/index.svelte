@@ -1,5 +1,5 @@
 <script>
-	function click(){console.log('un formatted')
+	function click() {console.log('un formatted')
 		console.log(1+2+3+4+5)
 }
 </script>
