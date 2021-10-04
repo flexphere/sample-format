@@ -4,10 +4,9 @@
 		console.log(1 + 2 + 3 + 4 + 5);
 	}
 
-    function hoge(){console.log('hoge')
-
-    }
-
+	function hoge() {
+		console.log('hoge');
+	}
 </script>
 
 <h1>Welcome to SvelteKit</h1>
