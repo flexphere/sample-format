@@ -3,6 +3,11 @@
 		console.log('un formatted');
 		console.log(1 + 2 + 3 + 4 + 5);
 	}
+
+    function(){console.log('hoge')
+
+    }
+
 </script>
 
 <h1>Welcome to SvelteKit</h1>
